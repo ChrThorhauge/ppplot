@@ -1,0 +1,14 @@
+Package: phallogram
+Title: Plot a Phallus-Shaped Histogram
+Version: 0.1.0
+Authors@R:
+    person("Christoffer", email = "christoffer1410@outlook.dk",
+           role = c("aut", "cre"))
+Description: A novelty package with a single function that generates data
+    whose histogram is shaped like a phallus, and plots it.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    graphics,
+    stats
+RoxygenNote: 7.3.2
