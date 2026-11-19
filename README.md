@@ -1,4 +1,4 @@
-# phallogram
+# ppplot
 
 A novelty R package with exactly one function: `pp_plot()`, which plots a
 histogram shaped like a phallus.
@@ -13,7 +13,7 @@ remotes::install_github("ChrThorhauge/ppplot")
 ## Usage
 
 ```r
-library(phallogram)
+library(ppplot)
 
 pp_plot()
 pp_plot(bins = 61, col = "steelblue", main = "Quarterly Growth")
