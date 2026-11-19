@@ -7,7 +7,7 @@ histogram shaped like a phallus.
 
 ```r
 # install.packages("remotes")
-remotes::install_github("YOUR-GITHUB-USERNAME/phallogram")
+remotes::install_github("ChrThorhauge/ppplot")
 ```
 
 ## Usage
